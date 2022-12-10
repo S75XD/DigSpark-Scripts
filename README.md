@@ -1,2 +1,2 @@
-# DigiSpark-Scripts
+# DigSpark-Scripts
 Scripts for DigSpark
